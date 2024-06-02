@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+}
+
+input[type='text'] {
+  padding: 5px;
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style-type: none;
+}
